@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](Gemini_Generated_Image_b0kj3ib0kj3ib0kj.jpg)
+![alt text](Gemini_Generated_Image_vp8lfzvp8lfzvp8l.jpg)
 
 - 🌱 I’m currently learning **$\color{red}{\text{Web Development}}$** and **$\color{blue}{\text{C Language}}$**
