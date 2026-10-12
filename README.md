@@ -1,4 +1,4 @@
-## Hello World! I'm Nartzero 
+## Hello World! I'm Nartzero 🖐️
 
 <!--
 **Nartzero/Nartzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
