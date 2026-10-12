@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Web Development and C
+![Kesatria](Nartzero/Gemini_Generated_Image_b0kj3ib0kj3ib0kj.jpg)
+
+- 🌱 I’m currently learning **$\color{red}{\text{Web Development}}$** and **$\color{blue}{\text{C Language}}$**
